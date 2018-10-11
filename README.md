@@ -1,6 +1,7 @@
 # Vivo
  
 Une Web App permettant de disposer d'un carnet de santé digital réalisé en Node js.
+La base de données à été faite avec MongoDB et Mongoose.
 
 Liste des fonctionnalités:
 
