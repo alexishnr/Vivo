@@ -1,5 +1,6 @@
+# Vivo
 
-Une Web App permettant de disposer d'un carnet de santé digityal réalisé en Node js.
+Une Web App permettant de disposer d'un carnet de santé digital réalisé en Node js.
 
 Liste des fonctionnalités:
 
