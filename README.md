@@ -1,19 +1,18 @@
 # Vivo
  
-Une Web App permettant de disposer d'un carnet de santé digital réalisé en Node js.
+- Projet personnel en Node JS
+- Création d’un MVP d’un Sneakers shop fictif réalisé en Node JS avec Express et une base de données MongoDB
+- Liste des fonctionnalités:
+- Afficher liste de produits envoyée depuis le backend.
+- Se connecter ou s'inscrire avec gestion des erreurs liées aux contraintes imposées par le backend.
+- Création d'une session utilisateur.
+- Se déconnecter entraînant une destruction de la session en cours.
+- Cryptage du mot de passe utilisateur en base de données avec CryptoJS.
+- Ajout d'un produit au panier.
+- Mise à jour du panier en fonction de la quantité choisie.
+- Suppression d'un article avec mise à jour du panier total.
+- Paiement via Stripe.
+- Site visible sur https://rocky-depths-85440.herokuapp.com/
 
-La base de données à été faite avec MongoDB et Mongoose.
-
-Liste des fonctionnalités:
-
-- Connexion ou inscription d'un utilisateur.
-- Possibilité de voir son dashboard utilisateur.
-- Possibilité d'ajouter une équipe soignante ainsi que les informations de son équipe soignante.
-- Possibilité d'ajouter un épisode relatif à sa santé (Par exemple une consultation ou une maladie) et d'y associer des infos types date de mise à jour, pictogramme associé etc...
-- Possibilité d'en voir plus sur un épisode et d'y ajouter au sein de ce dernier des informations concernants les rendez-vous (Voir aussi les lieux de rendez-vous sur une Google Map) pris ou alors d'ajouter des notes pour chaque passage chez un spécialiste pour une même maladie.
-- Possibilité de modifier ses informations utilisateurs.
-- Possibilité de supprimer un rendez-vous, un spécialiste ou un évènement.
-
-Site visible sur : https://myappvivo.herokuapp.com/
 
 Bonne visite =)
